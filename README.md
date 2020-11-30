@@ -11,6 +11,7 @@ I am a young Developer who wants to learn more.
 - Mongo DB
 - SQL
 
+### What am I doing right now? 
 - 🔭 I’m currently working on Get Smarter Now 
 - 🌱 I’m currently learning React 
 
