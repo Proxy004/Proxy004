@@ -1,7 +1,15 @@
 ### Hi there 👋, my name is Proxy
 I am a young Developer who wants to learn more.
 
-Skills: Adobe Creative Cloud  / React.js / JS / HTML / CSS / C# / Node.js / Mongo DB / SQL
+### Skills
+- Adobe Creative Cloud
+- React.js
+- JS 
+- HTML / CSS 
+- C# 
+- Node.js  
+- Mongo DB
+- SQL
 
 - 🔭 I’m currently working on Get Smarter Now 
 - 🌱 I’m currently learning React 
