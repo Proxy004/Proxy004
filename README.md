@@ -8,7 +8,6 @@ I am a young Developer who wants to learn more.
 - HTML / CSS 
 - C# 
 - Node.js  
-- Mongo DB
 
 ## What am I doing right now? 
 - 🔭 I’m currently working on Get Smarter Now 
