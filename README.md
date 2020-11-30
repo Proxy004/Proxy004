@@ -9,7 +9,6 @@ I am a young Developer who wants to learn more.
 - C# 
 - Node.js  
 - Mongo DB
-- SQL
 
 ## What am I doing right now? 
 - 🔭 I’m currently working on Get Smarter Now 
