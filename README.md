@@ -1,5 +1,5 @@
 ## Hi there 👋, my name is Proxy
-I am a young Developer who wants to learn more.
+I am a young Developer who wants to learn more. <br/>
 [![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)
 
 ## Skills
