@@ -3,7 +3,7 @@ I am a young Developer who wants to learn more.
 
 ## Skills
 - Adobe Creative Cloud
-- JS 
+- JS  
 - HTML / CSS 
 - C# 
 - Node.js  
