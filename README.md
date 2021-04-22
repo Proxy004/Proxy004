@@ -1,7 +1,7 @@
 ## Hi there 👋, my name is Proxy
 I am a young Developer who wants to learn more. 
 
-## Skills
+## Skills 
 - Adobe Creative Cloud
 - JS  
 - HTML / CSS 
