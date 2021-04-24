@@ -7,7 +7,7 @@ I am a young Developer who wants to learn more.
 - C# 
 - Node.js  
 
-## What am I doing right now?
+## What am I doing right now? 
 - 🔭 I’m currently working on Get Smarter Now 
 - 🌱 I’m currently learning React 
 
