@@ -5,7 +5,8 @@ I am a young Developer who wants to learn more.
 - JS  
 - HTML / CSS
 - C# 
-- Node.js  
+- Node.js
+- React  
 
 ## What am I doing right now? 
 - 🔭 I’m currently working on Revel
