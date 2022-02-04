@@ -1,7 +1,6 @@
 Hi there 👋
 
 # Skills  
-- Adobe Creative Cloud
 - JS  
 - C# 
 - Node.js
